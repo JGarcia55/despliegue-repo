@@ -5,5 +5,11 @@
     ],
     "routes": [
       { "src": "/(.*)", "dest": "app.py" }
-    ]
+    ],
+    "env": {
+        "USER_DB":"root",
+        "PASSWORD_DB":"nt11H7p,ZlA|IO5:`mr8",
+        "HOST_DB":"localhost",
+        "SCHEMA_DB":"tablas"
+    }
 }
