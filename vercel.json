@@ -9,7 +9,7 @@
     "env": {
         "USER_DB":"root",
         "PASSWORD_DB":"nt11H7p,ZlA|IO5:`mr8",
-        "HOST_DB":"localhost",
+        "HOST_DB":"157.253.198.23",
         "SCHEMA_DB":"tablas"
     }
 }
